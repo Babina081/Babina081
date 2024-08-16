@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me **babitamoo333@gmail.com**
-- 👨‍💻 Visit my portfolio page https://babina-portfolio.vercel.app/
+- 👨‍💻 Visit my portfolio page [https://babina-nextjs-portfolio.vercel.app/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
